@@ -1,0 +1,18 @@
+BASIC:
+-> Take number1 and number2 as input from user
+-> Take operator from user
+-> Do the given operation on the numbers
+-> Provide the user with output
+
+EXTENSION:
+-> Make a application that has the options:
+  -> Continue
+  -> Exit
+-> If user chooses continue:
+  -> Take number1 and number2 as input from user
+  -> Take operator from user
+  -> Do the given operation on the numbers
+  -> Provide the user with output
+-> If user chooses exit:
+  -> Exit the application
+
